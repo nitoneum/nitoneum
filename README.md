@@ -1,4 +1,7 @@
-<img href="nitoneum.gif" width="150"> # Nitoneum Project
+<img alt="rotating icon" href="nitoneum.gif" width="250" align="right">
+
+# Nitoneum Project
+
 https://nitoneum.com
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=success&up_message=up&url=https%3A%2F%2Fnitoneum.com) ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m788016512-c588ac46f17e954369b914ca)
