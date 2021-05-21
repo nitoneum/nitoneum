@@ -1,4 +1,3 @@
-<img alt="rotating icon" href="nitoneum.gif" width="250" align="right">
 
 # Nitoneum Project
 
