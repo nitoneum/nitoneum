@@ -9,3 +9,5 @@ Nitoneum is an experimental digital currency that enables instant payments to an
 
 
 💰 [Donations](https://github.com/nitoneum/donations#readme) are welcome
+
+[nitoneum](https://nitoneum.com/) • [documentation](https://docs.nitoneum.com/) • [status](https://status.nitoneum.com/status)
